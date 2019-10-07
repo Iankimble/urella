@@ -1,4 +1,4 @@
 {
-   "mongoURI":"mongodb+srv://ian123:urella123@cluster0-pmpby.mongodb.net/test?retryWrites=true&w=majority",
-   "jwtSecret":"hustle"
+   "mongoURI":"",
+   "jwtSecret":""
 }
